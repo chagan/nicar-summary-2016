@@ -26,6 +26,15 @@ body {
   background: rgba(0, 0, 0, 0.99);
   text-shadow: none; }
 
+.reveal li {
+  margin-bottom: 20px;
+}
+
+.reveal ul ul {
+  font-size: 30px;
+  margin-top: 10px;
+}
+
 /*********************************************
  * HEADERS
  *********************************************/
